@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0aff0a,100:000000&height=220&section=header&text=LUIZ%20HENRIQUE&fontSize=46&fontColor=0aff0a&animation=twinkling&fontAlignY=38&desc=%3E%20full-stack_dev%20~%20data%20~%20infosec%20~%20AI&descAlignY=58&descSize=18&descColor=39ff14" />
 
 <a href="https://github.com/luizhenriquepds1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0AFF0A&background=000000&center=true&vCenter=true&width=650&lines=root%40luiz%3A~%24+whoami;%3E+desenvolvedor+full-stack;%3E+entusiasta+de+dados+%26+seguran%C3%A7a;%3E+access_granted+%E2%9C%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0AFF0A&background=000000&center=true&vCenter=true&width=650&lines=luiz%40recife%3A~%24+whoami;%3E+desenvolvedor+full-stack;%3E+entusiasta+de+dados+%26+seguran%C3%A7a;%3E+access_granted+%E2%9C%93" alt="Typing SVG" />
 </a>
 
 <br>
@@ -15,33 +15,51 @@
 
 <br>
 
-```bash
-┌──(luiz@dev-machine)-[~]
-└─$ cat sobre.txt
 ```
 
-## 🖥️ `> ./sobre-mim`
+╭─luiz@recife ~ ─────────────────────────────────────────╮
+│                                                          │
+│  $ ssh luiz@portfolio                                   │
+│  > authenticating...                                    │
+│  > access granted ✓                                     │
+│  > loading profile.sh ...                                │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+
+```
+
+<br>
+
+```bash
+luiz@recife:~$ cat sobre.txt
+```
 
 Desenvolvedor full-stack e entusiasta de tecnologia com forte interesse em **ciência de dados, segurança da informação, arquitetura de software e inteligência artificial**. Cursando Ciência de Dados, busco unir boas práticas de engenharia a soluções modernas, seguras e escaláveis — tanto no desenvolvimento de produtos quanto na construção de modelos e pipelines de dados.
+
+```bash
+luiz@recife:~$ cat perfil.yaml
+```
 
 ```yaml
 localização:  Recife, PE, Brasil
 formação:     Ciência de Dados (em andamento)
 foco:         Full-Stack | Dados | Segurança da Informação | IA
-banco_dados:  PostgreSQL, MySQL
-infra:        Docker, Kubernetes, CI/CD, Linux
+banco_dados:  PostgreSQL, MySQL, SQLite
+infra:        Docker, Nginx, Vercel, CI/CD, Linux
 security:     Active Directory, VPN, Intune, Endpoint Security, Pentesting
 design:       Figma, Adobe XD
-side_quest:   Machine Learning
-tooling:      Claude Code
+side_quest:   Machine Learning, Pandas
+tooling:      Claude Code, Shell Script
 ```
 
 <br>
 
-## 🚀 `> ./projetos --featured`
+```bash
+luiz@recife:~$ ls -la ./projetos/
+```
 
 <details open>
-<summary><b>🧑‍💼 Agente de Departamento Pessoal</b></summary>
+<summary><b>drwxr-xr-x  🧑‍💼 agente-departamento-pessoal/</b></summary>
 <br>
 
 Sistema de RH/folha que combina um banco de dados de funcionários com um agente de linguagem natural, eliminando o controle manual em planilhas. Permite consultas e comandos em texto (cadastro, atualização, desligamento, relatórios) com confirmação e log de auditoria.
@@ -51,7 +69,7 @@ Sistema de RH/folha que combina um banco de dados de funcionários com um agente
 </details>
 
 <details>
-<summary><b>📦 Sistema de Inventário / Patrimônio</b></summary>
+<summary><b>drwxr-xr-x  📦 sistema-inventario-patrimonio/</b></summary>
 <br>
 
 Controle de equipamentos (máquinas de costura, computadores, equipamentos de fábrica e escritório), com foco em escalabilidade, boas práticas e design responsivo.
@@ -61,7 +79,7 @@ Controle de equipamentos (máquinas de costura, computadores, equipamentos de f�
 </details>
 
 <details>
-<summary><b>🍔 Cardápio Online via WhatsApp</b></summary>
+<summary><b>drwxr-xr-x  🍔 cardapio-online-whatsapp/</b></summary>
 <br>
 
 App web para estabelecimentos exibirem cardápio, receberem pedidos com dados de entrega e encaminharem tudo direto para o WhatsApp — com edição do cardápio pelo próprio dono do negócio.
@@ -71,7 +89,7 @@ App web para estabelecimentos exibirem cardápio, receberem pedidos com dados de
 </details>
 
 <details>
-<summary><b>⛪ Sistema de Gestão para Igreja</b></summary>
+<summary><b>drwxr-xr-x  ⛪ sistema-gestao-igreja/</b></summary>
 <br>
 
 Plataforma de gestão com cadastro de membros/congregados, diretoria, liderança, ensino, departamentos, ministérios, financeiro, patrimônio e agenda.
@@ -80,13 +98,16 @@ Plataforma de gestão com cadastro de membros/congregados, diretoria, liderança
 
 <br>
 
-## 🧠 `> ./tech-stack --list`
+```bash
+luiz@recife:~$ ./stack.sh --list-all
+```
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=0AFF0A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFE600)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00D9FF)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=0AFF0A)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D9FF)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=A78BFA)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=0AFF0A)
@@ -94,14 +115,22 @@ Plataforma de gestão com cadastro de membros/congregados, diretoria, liderança
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=00D9FF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=A78BFA)
+![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=FF3D8F)
+![Less](https://img.shields.io/badge/Less-000000?style=for-the-badge&logo=less&logoColor=A78BFA)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF3131)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00D9FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=0AFF0A)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00D9FF)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00D9FF)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=0AFF0A)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00D9FF)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFE600)
+![Shell Script](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnubash&logoColor=0AFF0A)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF3131)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00D9FF)
+![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=chartdotjs&logoColor=FF3131)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=A78BFA)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=0AFF0A)
 
@@ -109,7 +138,9 @@ Plataforma de gestão com cadastro de membros/congregados, diretoria, liderança
 
 <br>
 
-## 📜 `> ./certificacoes --print`
+```bash
+luiz@recife:~$ cat certificacoes.log
+```
 
 <div align="center">
 
@@ -122,7 +153,9 @@ Plataforma de gestão com cadastro de membros/congregados, diretoria, liderança
 
 <br>
 
-## 📊 `> ./stats --github`
+```bash
+luiz@recife:~$ ./monitor.sh --github-stats
+```
 
 <div align="center">
 
@@ -143,7 +176,9 @@ Plataforma de gestão com cadastro de membros/congregados, diretoria, liderança
 
 <br>
 
-## 🌐 `> ./contato --connect`
+```bash
+luiz@recife:~$ ./contato.sh --connect
+```
 
 <div align="center">
 
@@ -157,7 +192,8 @@ Plataforma de gestão com cadastro de membros/congregados, diretoria, liderança
 <div align="center">
 
 ```bash
-└─$ echo "conexão encerrada."
+luiz@recife:~$ echo "conexão encerrada."
+> logout
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0aff0a,100:000000&height=120&section=footer" />
