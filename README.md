@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0aff0a,100:000000&height=220&section=header&text=LUIZ%20HENRIQUE&fontSize=46&fontColor=0aff0a&animation=fadeIn&fontAlignY=38&desc=%3E%20full-stack_dev%20~%20data%20~%20infosec%20~%20AI&descAlignY=58&descSize=18&descColor=39ff14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0aff0a,100:000000&height=220&section=header&text=LUIZ%20HENRIQUE&fontSize=46&fontColor=0aff0a&animation=twinkling&fontAlignY=38&desc=%3E%20full-stack_dev%20~%20data%20~%20infosec%20~%20AI&descAlignY=58&descSize=18&descColor=39ff14" />
 
 <a href="https://github.com/luizhenriquepds1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0AFF0A&background=000000&center=true&vCenter=true&width=650&lines=root%40luiz%3A~%24+whoami;%3E+desenvolvedor+full-stack;%3E+entusiasta+de+dados+%26+seguran%C3%A7a;%3E+access_granted+%E2%9C%93" alt="Typing SVG" />
@@ -130,6 +130,14 @@ Plataforma de gestão com cadastro de membros/congregados, diretoria, liderança
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhenriquepds1&layout=compact&hide_border=true&theme=synthwave&bg_color=000000" width="35%" />
 
 <img src="https://streak-stats.demolab.com?user=luizhenriquepds1&background=000000&border=0AFF0A&ring=0AFF0A&fire=FF3131&currStreakLabel=0AFF0A&sideLabels=0AFF0A&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B&hide_border=true" width="70%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luizhenriquepds1&theme=react-dark&bg_color=000000&color=0aff0a&line=0aff0a&point=ffffff&area=true&hide_border=true" width="95%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=luizhenriquepds1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&animation=slideIn" width="95%" />
 
 </div>
 
