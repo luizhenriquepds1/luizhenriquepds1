@@ -5,12 +5,12 @@
 └─$ ./boot.sh
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=Booting+profile.sh...;whoami;%3E+Luiz+Henrique;cat+role.txt;%3E+Desenvolvedor+Full-Stack;cat+focus.txt;%3E+Dados+%7C+Infosec+%7C+IA;echo+%24STATUS;%3E+ONLINE_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=B026FF&background=000000&center=true&vCenter=true&width=700&lines=Booting+profile.sh...;whoami;%3E+Luiz+Henrique;cat+role.txt;%3E+Desenvolvedor+Full-Stack;cat+focus.txt;%3E+Dados+%7C+Infosec+%7C+IA;echo+%24STATUS;%3E+ONLINE_" alt="Typing SVG" />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luizhenriquepds1&label=CONNECTIONS&color=000000&style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=flat-square&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-B026FF?style=flat-square&labelColor=000000)
 
 </div>
 
@@ -90,35 +90,35 @@ luiz@recife:~$ ./stack.sh --list-all
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF00)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF00)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF00)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00FF00)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00FF00)
-![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=00FF00)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00FF00)
-![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=00FF00)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=00FF00)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=00FF00)
-![Sass](https://img.shields.io/badge/Sass-000000?style=flat-square&logo=sass&logoColor=00FF00)
-![Less](https://img.shields.io/badge/Less-000000?style=flat-square&logo=less&logoColor=00FF00)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF00)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF00)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF00)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=00FF00)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00FF00)
-![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=00FF00)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00FF00)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=00FF00)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF00)
-![Shell Script](https://img.shields.io/badge/Shell_Script-000000?style=flat-square&logo=gnubash&logoColor=00FF00)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF00)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=00FF00)
-![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=flat-square&logo=chartdotjs&logoColor=00FF00)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=00FF00)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=00FF00)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=44B78B)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=21759B)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![Sass](https://img.shields.io/badge/Sass-000000?style=flat-square&logo=sass&logoColor=CC6699)
+![Less](https://img.shields.io/badge/Less-000000?style=flat-square&logo=less&logoColor=2A4B8D)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=0F80CC)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=009639)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![Shell Script](https://img.shields.io/badge/Shell_Script-000000?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=E70488)
+![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=flat-square&logo=chartdotjs&logoColor=FF6384)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=74AA9C)
 
 </div>
 
@@ -130,8 +130,8 @@ luiz@recife:~$ cat certificacoes.log
 
 <div align="center">
 
-![Threat Intelligence](https://img.shields.io/badge/arcX-Foundation_Level_Threat_Intelligence_Analyst-000000?style=flat-square&labelColor=000000&color=00FF00)
-![ISO 27001](https://img.shields.io/badge/SkillFront-Associado_de_Seguran%C3%A7a_ISO%2FIEC_27001-000000?style=flat-square&labelColor=000000&color=00FF00)
+![Threat Intelligence](https://img.shields.io/badge/arcX-Foundation_Level_Threat_Intelligence_Analyst-000000?style=flat-square&labelColor=000000&color=B026FF)
+![ISO 27001](https://img.shields.io/badge/SkillFront-Associado_de_Seguran%C3%A7a_ISO%2FIEC_27001-000000?style=flat-square&labelColor=000000&color=B026FF)
 
 *+ 15 outras certificações no [LinkedIn](https://www.linkedin.com/in/luiz-henrique-98686318a/)*
 
@@ -145,18 +145,18 @@ luiz@recife:~$ ./monitor.sh --github-stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luizhenriquepds1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhenriquepds1&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF00&text_color=FFFFFF" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=luizhenriquepds1&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=B026FF&icon_color=FF2079&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhenriquepds1&layout=compact&hide_border=true&bg_color=000000&title_color=B026FF&text_color=FFFFFF" width="35%" />
 
-<img src="https://streak-stats.demolab.com?user=luizhenriquepds1&background=000000&border=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B&hide_border=true" width="70%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luizhenriquepds1&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com?user=luizhenriquepds1&background=000000&border=B026FF&ring=B026FF&fire=FF2079&currStreakLabel=B026FF&sideLabels=B026FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B&hide_border=true" width="70%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=luizhenriquepds1&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&animation=slideIn" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luizhenriquepds1&theme=github-compact&bg_color=000000&color=B026FF&line=B026FF&point=FF2079&area=true&hide_border=true" width="95%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=luizhenriquepds1&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&animation=slideIn" width="95%" />
 
 </div>
 
@@ -168,8 +168,8 @@ luiz@recife:~$ ./contato.sh --connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/luiz-henrique-98686318a/)
-[![Website](https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logo=googlechrome&logoColor=00FF00)](https://luizhenrique.ki6.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=B026FF)](https://www.linkedin.com/in/luiz-henrique-98686318a/)
+[![Website](https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logo=googlechrome&logoColor=B026FF)](https://luizhenrique.ki6.com.br/)
 
 </div>
 
